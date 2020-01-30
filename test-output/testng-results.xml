@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AmazonUISearch" duration-ms="62957" started-at="2020-01-30T18:21:19Z" finished-at="2020-01-30T18:22:22Z">
+    <groups>
+    </groups>
+    <test name="Book-AI" duration-ms="62957" started-at="2020-01-30T18:21:19Z" finished-at="2020-01-30T18:22:22Z">
+      <class name="com.amazon.AmazonUI.AmazonSearchTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365]" name="setUp" is-config="true" duration-ms="5677" started-at="2020-01-30T23:51:19Z" finished-at="2020-01-30T23:51:25Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365]" name="handleTestMethodName" is-config="true" duration-ms="378" started-at="2020-01-30T23:51:25Z" finished-at="2020-01-30T23:51:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.AmazonUI.AmazonSearchTest.bookSearch()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7bb3a9fe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="bookSearch()[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365]" name="bookSearch" duration-ms="56143" started-at="2020-01-30T23:51:25Z" finished-at="2020-01-30T23:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookSearch -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365]" name="afterMethod" is-config="true" duration-ms="442" started-at="2020-01-30T23:52:21Z" finished-at="2020-01-30T23:52:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bookSearch status=SUCCESS method=AmazonSearchTest.bookSearch()[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.amazon.AmazonUI.AmazonSearchTest@5ec0a365]" name="afterClass" is-config="true" duration-ms="300" started-at="2020-01-30T23:52:22Z" finished-at="2020-01-30T23:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.amazon.AmazonUI.AmazonSearchTest -->
+    </test> <!-- Book-AI -->
+  </suite> <!-- AmazonUISearch -->
+</testng-results>

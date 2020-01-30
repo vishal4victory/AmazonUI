@@ -1,0 +1,40 @@
+2020-01-30 23:39:58 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:40:13 INFO  com.amazon.AmazonUI.SearchDropDown:28 - selectsearch dropDown selectedBooks
+2020-01-30 23:40:18 INFO  com.amazon.AmazonUI.Search:35 - Searched the specific item
+2020-01-30 23:40:23 INFO  com.amazon.AmazonUI.Department:46 - department clickedSciences, Technology & Medicine
+2020-01-30 23:40:32 INFO  com.amazon.AmazonUI.Department:46 - department clickedEngineering & Technology
+2020-01-30 23:40:37 INFO  com.amazon.AmazonUI.AvgReview:41 - avgReviewElement clicked
+2020-01-30 23:40:43 INFO  com.amazon.AmazonUI.PriceCriteria:32 - Search based on Price Criteria Success
+2020-01-30 23:40:50 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Paperback
+2020-01-30 23:40:56 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Hardcover
+2020-01-30 23:41:02 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:KindleeBooks
+2020-01-30 23:41:05 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Audiobook
+2020-01-30 23:41:08 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:AudibleAudioEdition
+2020-01-30 23:41:09 INFO  com.amazon.AmazonUI.validation.ValidateResults:40 - Results Match
+2020-01-30 23:41:09 INFO  com.amazon.AmazonUI.UITest:153 - **** TestbookSearch passed ******
+2020-01-30 23:46:28 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:46:28 INFO  com.amazon.AmazonUI.UITest:150 - **** TestbookSearch Skipped ******
+2020-01-30 23:46:28 INFO  com.amazon.AmazonUI.UITest:131 - Error While Closing App
+2020-01-30 23:48:30 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:48:31 INFO  com.amazon.AmazonUI.UITest:150 - **** TestbookSearch Skipped ******
+2020-01-30 23:48:31 INFO  com.amazon.AmazonUI.UITest:131 - Error While Closing App
+2020-01-30 23:48:50 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:48:50 INFO  com.amazon.AmazonUI.UITest:150 - **** TestbookSearch Skipped ******
+2020-01-30 23:48:52 INFO  com.amazon.AmazonUI.UITest:131 - Error While Closing App
+2020-01-30 23:49:54 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:49:54 INFO  com.amazon.AmazonUI.UITest:150 - **** TestbookSearch Skipped ******
+2020-01-30 23:49:55 INFO  com.amazon.AmazonUI.UITest:131 - Error While Closing App
+2020-01-30 23:51:19 INFO  com.amazon.AmazonUI.UITest:44 - ************Inside setup*************
+2020-01-30 23:51:29 INFO  com.amazon.AmazonUI.SearchDropDown:28 - selectsearch dropDown selectedBooks
+2020-01-30 23:51:32 INFO  com.amazon.AmazonUI.Search:35 - Searched the specific item
+2020-01-30 23:51:41 INFO  com.amazon.AmazonUI.Department:46 - department clickedSciences, Technology & Medicine
+2020-01-30 23:51:46 INFO  com.amazon.AmazonUI.Department:46 - department clickedEngineering & Technology
+2020-01-30 23:51:51 INFO  com.amazon.AmazonUI.AvgReview:41 - avgReviewElement clicked
+2020-01-30 23:51:56 INFO  com.amazon.AmazonUI.PriceCriteria:32 - Search based on Price Criteria Success
+2020-01-30 23:52:01 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Paperback
+2020-01-30 23:52:06 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Hardcover
+2020-01-30 23:52:12 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:KindleeBooks
+2020-01-30 23:52:17 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:Audiobook
+2020-01-30 23:52:21 INFO  com.amazon.AmazonUI.FormatSelection:49 - format selected:AudibleAudioEdition
+2020-01-30 23:52:21 INFO  com.amazon.AmazonUI.validation.ValidateResults:40 - Results Match
+2020-01-30 23:52:21 INFO  com.amazon.AmazonUI.UITest:153 - **** TestbookSearch passed ******
